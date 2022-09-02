@@ -27,17 +27,17 @@ h1 {
 }
 
 .burger img {
-  margin: auto 5px;
+  margin: 20px;
   float: left;
 }
 
 .pizza img {
-  margin: auto 5px;
+  margin: 20px;
   float: right;
 }
 
 .lentil img {
-  margin: auto 5px;
+  margin: 20px;
   float: center;
 }
 
