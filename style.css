@@ -18,27 +18,33 @@ h1 {
   width: 50%;
 }
 
+.burger img {
+  margin: 10px;
+  float: left;
+  width: 200px;
+  height: 200px;
+}
+
+.pizza img {
+  margin: 10px;
+  float: right;
+  width: 200px;
+  height: 200px;
+}
+
+.lentil img {
+  margin: 10px;
+  float: center;
+  width: 200px;
+  height: 200px;
+}
+
 .burger,
 .pizza,
 .lentil {
   text-align: center;
   list-style: none;
   color: white;
-}
-
-.burger img {
-  margin: 20px;
-  float: left;
-}
-
-.pizza img {
-  margin: 20px;
-  float: right;
-}
-
-.lentil img {
-  margin: 20px;
-  float: center;
 }
 
 h2 {
@@ -54,4 +60,10 @@ p {
 ul,
 ol {
   font-size: 20px;
+}
+
+.text {
+  display: inline-block;
+  margin-left: 100px;
+  margin-right: 50px;
 }
